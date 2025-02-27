@@ -1,5 +1,5 @@
 # Adidas-Sales-Analysis
-# Adidas US Sales Analysis
+
 
 ## Overview
 This project analyzes Adidas sales data in the United States. The dataset includes transactions from various retailers, providing insights into product performance, regional sales, and profitability. The analysis aims to uncover trends and patterns to support business decisions.
